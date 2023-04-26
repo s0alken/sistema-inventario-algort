@@ -1,0 +1,62 @@
+body {
+
+	text-transform: uppercase;
+	-webkit-print-color-adjust: exact;
+	font-family: "Courier New", monospace;
+	font-weight: bold;
+	margin: 0;
+	width: 80mm;
+	max-width: 80mm;
+
+}
+
+.ticket {
+
+	margin: 5mm;
+
+}
+
+td, th, tr, table {
+
+    border-top: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+.text-right {
+
+	text-align: right;
+
+}
+
+.mb {
+
+	margin-bottom: 5mm;
+
+}
+
+
+.mt {
+
+	margin-top: 5mm;
+
+}
+
+.text-center {
+
+	text-align: center;
+
+}
+
+hr	{
+
+	border-top: 1px dashed black;
+	margin-top: 10mm;
+
+}
+
+@page {
+
+    margin: 0mm;
+
+}

@@ -1,0 +1,17 @@
+[17-May-2021 13:39:51 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[09-Jun-2021 13:32:23 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[11-Jun-2021 12:54:13 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[24-Jun-2021 20:10:21 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[24-Jun-2021 20:20:23 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[29-Jun-2021 16:40:59 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[08-Jul-2021 14:47:54 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[12-Jul-2021 14:31:38 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[06-Aug-2021 19:55:16 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[17-Aug-2021 13:03:31 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[17-Aug-2021 15:38:37 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[23-Aug-2021 20:43:22 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[30-Aug-2021 21:27:35 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[01-Sep-2021 19:01:32 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[06-Sep-2021 13:16:54 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6

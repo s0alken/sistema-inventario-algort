@@ -1,0 +1,1 @@
+[12-May-2021 14:59:42 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6

@@ -1,0 +1,71 @@
+[22-Mar-2021 13:08:06 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'vd.descuento' in 'field list' in /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php:48
+Stack trace:
+#0 /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php(48): PDO->query('\r\n            S...')
+#1 /home/mtalcacl/public_html/sistema/informes/ventas.php(36): cargarVentas()
+#2 {main}
+  thrown in /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php on line 48
+[23-Mar-2021 13:40:36 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'vd.descuento' in 'field list' in /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php:48
+Stack trace:
+#0 /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php(48): PDO->query('\r\n            S...')
+#1 /home/mtalcacl/public_html/sistema/informes/ventas.php(36): cargarVentas()
+#2 {main}
+  thrown in /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php on line 48
+[23-Mar-2021 13:41:18 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'vd.descuento' in 'field list' in /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php:48
+Stack trace:
+#0 /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php(48): PDO->query('\r\n            S...')
+#1 /home/mtalcacl/public_html/sistema/informes/ventas.php(36): cargarVentas()
+#2 {main}
+  thrown in /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php on line 48
+[23-Mar-2021 13:41:42 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'vd.descuento' in 'field list' in /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php:48
+Stack trace:
+#0 /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php(48): PDO->query('\r\n            S...')
+#1 /home/mtalcacl/public_html/sistema/informes/ventas.php(36): cargarVentas()
+#2 {main}
+  thrown in /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php on line 48
+[24-Mar-2021 13:25:34 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'vd.descuento' in 'field list' in /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php:48
+Stack trace:
+#0 /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php(48): PDO->query('\r\n            S...')
+#1 /home/mtalcacl/public_html/sistema/informes/ventas.php(36): cargarVentas()
+#2 {main}
+  thrown in /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php on line 48
+[24-Mar-2021 17:27:47 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'vd.descuento' in 'field list' in /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php:48
+Stack trace:
+#0 /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php(48): PDO->query('\r\n            S...')
+#1 /home/mtalcacl/public_html/sistema/informes/ventas.php(36): cargarVentas()
+#2 {main}
+  thrown in /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php on line 48
+[24-Mar-2021 17:29:23 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'vd.descuento' in 'field list' in /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php:48
+Stack trace:
+#0 /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php(48): PDO->query('\r\n            S...')
+#1 /home/mtalcacl/public_html/sistema/informes/ventas.php(36): cargarVentas()
+#2 {main}
+  thrown in /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php on line 48
+[26-Mar-2021 08:57:42 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'vd.descuento' in 'field list' in /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php:48
+Stack trace:
+#0 /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php(48): PDO->query('\r\n            S...')
+#1 /home/mtalcacl/public_html/sistema/informes/ventas.php(36): cargarVentas()
+#2 {main}
+  thrown in /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php on line 48
+[26-Mar-2021 08:57:56 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'vd.descuento' in 'field list' in /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php:48
+Stack trace:
+#0 /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php(48): PDO->query('\r\n            S...')
+#1 /home/mtalcacl/public_html/sistema/informes/ventas.php(36): cargarVentas()
+#2 {main}
+  thrown in /home/mtalcacl/public_html/sistema/informes/cargar_ventas.php on line 48
+[08-Jun-2021 13:22:50 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[09-Jun-2021 13:33:30 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[29-Jun-2021 16:42:06 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[30-Jun-2021 14:36:51 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[30-Jun-2021 17:46:59 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[07-Jul-2021 21:25:19 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[09-Jul-2021 19:55:33 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[12-Jul-2021 14:31:40 UTC] PHP Warning:  file_get_contents(): SSL: Success in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[12-Jul-2021 14:31:40 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[12-Jul-2021 14:31:40 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: operation failed in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[13-Jul-2021 15:16:15 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[13-Jul-2021 19:57:41 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[27-Jul-2021 15:55:00 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[03-Aug-2021 16:22:55 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[01-Sep-2021 19:02:36 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
+[01-Sep-2021 19:04:32 UTC] PHP Warning:  file_get_contents(https://mindicador.cl/api): failed to open stream: HTTP request failed! in /home/mtalcacl/public_html/sistema/controller/indicador_economico.php on line 6
