@@ -8,3 +8,6 @@ Este sistema de gestión de ventas e inventario se desarrolló para Algort Infor
  - [jQuery](https://jquery.com/)
  - [MySQL](https://www.mysql.com/)
  - [Bootstrap](https://getbootstrap.com/)
+
+## Screenshot
+
