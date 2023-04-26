@@ -11,3 +11,4 @@ Este sistema de gestión de ventas e inventario se desarrolló en Algort Inform�
 
 ## Screenshot
 
+![screenshot](https://user-images.githubusercontent.com/57046544/234664532-2564d0b8-29ad-4ad4-876f-16dc37f81983.png)
